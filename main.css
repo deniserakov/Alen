@@ -27,7 +27,6 @@
 	 cursor: pointer;
 }
 .df{
-background-color: none;
 }
  .love::after {
 	 content: attr(data-count);
